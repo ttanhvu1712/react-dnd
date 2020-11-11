@@ -8,6 +8,7 @@ const Square = ({ black, children }) => {
     <div
       style={{
         backgroundColor: fill,
+        textAlign: 'center',
         color: stroke,
         width: "100%",
         height: "100%",
